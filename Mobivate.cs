@@ -19,9 +19,9 @@ namespace testcsharp
 		{
 			// SMS Data
 			string username = "USER:PASS"; // **** CHANGE THIS ****
-			string routeID = "3d7c4a51-c68b-4ee4-b83b-822bf7eb293f"; 
+			string routeID = "mglobal"; 
 			string orig = "test";
-			string rcpt = "61417188345";
+			string rcpt = "61410000000";
 			string body = "Test Message < > # ? ! ? % // http://test.com £ ^&*()";
 
 			// Make XML message
